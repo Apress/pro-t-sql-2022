@@ -1,0 +1,4 @@
+ProductID,ProductName,ProductPrice,IsActive,DateCreated,DateModified,DateDisabled
+1,Telescope,599.00,True,2022-08-30 23:16:25.21,2022-08-30 23:16:25.21,
+2,Disk Golf Disk,10.00,True,2022-08-30 23:16:25.21,2022-08-30 23:16:25.21,
+3,Inflatable Paddleboard,249.99,True,2022-08-30 23:16:25.21,2022-08-30 23:16:25.21,
